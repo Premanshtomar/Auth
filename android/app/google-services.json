@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272842887014",
+    "project_id": "notes-75122",
+    "storage_bucket": "notes-75122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272842887014:android:83a11382b9183e26d482a7",
+        "android_client_info": {
+          "package_name": "com.premansh.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272842887014-4369u2p3fceft4irp3i7ibr7nqmsvnlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS8qc2d2oMQ86xg0BNPOKRWgS7KWumxcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272842887014-4369u2p3fceft4irp3i7ibr7nqmsvnlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
